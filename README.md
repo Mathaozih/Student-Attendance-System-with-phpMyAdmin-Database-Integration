@@ -1,2 +1,2 @@
 # Student-Attendance-System-with-phpMyAdmin-Database-Integration
-This student attendance system is an integrated presence management solution that combines a Python-based Graphical User Interface (GUI) with a MySQL relational database managed via phpMyAdmin.
+This student attendance system is an integrated presence management solution that combines a Python-based Graphical User Interface (GUI) with a MySQL relational database managed via phpMyAdmin. The system's workflow begins with an automatic connection initialization to the db_presensi database using the mysql.connector module, followed by the activation of a real-time video stream through OpenCV.
